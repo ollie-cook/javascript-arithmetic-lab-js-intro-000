@@ -10,9 +10,10 @@ function multiply(a,b){
 function divide(a,b){
   return a/b;
 }
-function increment(number){
-return number++ ;
+function increment(n){
+ n++ 
+ return n 
 }
 function decrement(number){
-return number-- ;
+return number-- 
 }
