@@ -14,6 +14,7 @@ function increment(n){
  n++
  return n
 }
-function decrement(number){
-return number--
+function decrement(n){
+n--
+return n
 }
